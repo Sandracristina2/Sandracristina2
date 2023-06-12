@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje buscando oportunidades
-- 🌱 Estudando: Java / Qualidade de Software 
+- 🌱 Estudante: Análise e Desenvolvimento de Sistemas 
 - 😄 Pronouns: ela/dela
 
 <div align="center">
